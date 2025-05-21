@@ -148,7 +148,7 @@ const InterviewDetails = () => {
 
       {showPopup && (
         <div className="absolute top-5 right-5 bg-purple-600 text-white px-6 py-3 rounded-xl shadow-lg transition">
-          Interview {currentCount} of {numInterviews} filled ✅
+          Interview {currentCount} of {numInterviews} filled 
         </div>
       )}
     </div>
